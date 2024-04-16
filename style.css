@@ -54,6 +54,11 @@ body {
     margin-left: 5px;
 }
 
+.image3 {
+    min-width: 40%;
+    margin: 15px;
+}
+
 .spacing {
     line-height: 2.3em;
     font-size: 1.5em;
