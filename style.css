@@ -44,7 +44,9 @@ body {
     shape-outside: circle();
 }
 
-
+.spacing {
+    line-height: 1.3em;
+}
 
 .title2 {
     font-size: 2.5em;
