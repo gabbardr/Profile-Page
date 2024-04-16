@@ -11,4 +11,24 @@ body {
     border-color: black;
     border-bottom-style: solid;
     width: 100%;
+    margin-top: 15px;
+}
+
+.columns {
+    float: left;
+    padding: 10px;
+}
+
+.columns.left {
+    width: 75%;
+}
+
+.columns.right {
+    width: 25%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
