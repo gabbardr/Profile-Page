@@ -1,0 +1,9 @@
+body {
+    background-color: #00F6ED;
+}
+
+.firstS {
+    border-bottom: 5px;
+    border-color: black;
+    border-style: outset;
+}
