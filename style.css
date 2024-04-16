@@ -52,10 +52,16 @@ body {
 .firstB {
     float: left;
     background-color: #CAD8DE;
+    margin: 10px;
+    max-width: 25%;
+    text-align: center;
 }
 
 .secondB {
     background-color: #FA7E7E;
+    margin: 5px;
+    max-width: 25%;
+    text-align: center;
 }
 
 .title2 {
