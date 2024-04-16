@@ -101,3 +101,24 @@ body {
     background-color: #D9D9D9;
     margin: 20px;
 }
+
+.backgroundContainer3 {
+    background-color: #CAD8DE;
+}
+
+.column2 {
+    width: 50%;
+    display: inline-block;
+    padding: 10px;
+}
+
+.row2:after{
+    display: table;
+    clear: both;
+}
+
+.friendCard {
+    max-width: 45%;
+    text-align: center;
+    margin: auto;
+}
