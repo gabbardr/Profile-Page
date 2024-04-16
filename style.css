@@ -53,14 +53,14 @@ body {
     float: left;
     background-color: #CAD8DE;
     margin-left: 10px;
-    min-width: 25%;
+    min-width: 15%;
     text-align: center;
 }
 
 .secondB {
     background-color: #FA7E7E;
     margin-left: 5px;
-    min-width: 25%;
+    min-width: 15%;
     text-align: center;
 }
 
@@ -69,3 +69,6 @@ body {
     text-align: center;
 }
 
+.desTitle {
+    margin-top: 15px;
+}
