@@ -1,9 +1,16 @@
 body {
     background-color: #00F6ED;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .firstS {
     border-bottom: 5px;
     border-color: black;
-    border-style: outset;
+    border-style: solid;
+    width: 100%;
+}
+
+.title {
+    font-size: 4em;
 }
