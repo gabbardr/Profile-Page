@@ -12,6 +12,7 @@ body {
     border-bottom-style: solid;
     width: 100%;
     margin-top: 15px;
+    padding-left: 10px;
 }
 
 .columns {
@@ -35,7 +36,12 @@ body {
 
 .image {
     float: left;
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     border-radius: 50%;
+    padding: 10px;
+}
+
+.title2 {
+    font-size: 2.5em;
 }
