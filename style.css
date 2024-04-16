@@ -4,13 +4,10 @@ body {
     margin-right: 0;
 }
 
-.firstS {
+.title {
+    font-size: 4em;
     border-bottom: 5px;
     border-color: black;
     border-style: solid;
     width: 100%;
-}
-
-.title {
-    font-size: 4em;
 }
