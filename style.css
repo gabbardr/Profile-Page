@@ -44,6 +44,14 @@ body {
     shape-outside: circle();
 }
 
+.image2 {
+    float: left;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    shape-outside: circle();
+}
+
 .spacing {
     line-height: 2.3em;
     font-size: 1.5em;
@@ -53,14 +61,14 @@ body {
     float: left;
     background-color: #CAD8DE;
     margin-left: 10px;
-    min-width: 15%;
+    min-width: 12%;
     text-align: center;
 }
 
 .secondB {
     background-color: #FA7E7E;
     margin-left: 5px;
-    min-width: 15%;
+    min-width: 12%;
     text-align: center;
 }
 
@@ -71,4 +79,12 @@ body {
 
 .desTitle {
     margin-top: 15px;
+}
+
+.desTitle2 {
+    font-size: 1em;
+}
+
+.backgroundContainer {
+    background-color: #D9D9D9;
 }
