@@ -2,12 +2,13 @@ body {
     background-color: #00F6ED;
     margin-left: 0;
     margin-right: 0;
+    margin-top: 0;
 }
 
 .title {
     font-size: 4em;
-    border-bottom: 5px;
+    border-bottom: 3px;
     border-color: black;
-    border-style: solid;
+    border-bottom-style: solid;
     width: 100%;
 }
