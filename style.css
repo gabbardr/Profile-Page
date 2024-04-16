@@ -13,6 +13,7 @@ body {
     width: 100%;
     margin-top: 15px;
     padding-left: 10px;
+    margin-bottom: 5px;
 }
 
 .columns {
@@ -34,14 +35,18 @@ body {
     clear: both;
 }
 
-.image {
+.circleFormat.image {
     float: left;
     height: 300px;
     width: 300px;
     border-radius: 50%;
     padding: 10px;
+    shape-outside: circle();
 }
+
+
 
 .title2 {
     font-size: 2.5em;
+    text-align: center;
 }
